@@ -21,7 +21,7 @@ nav {
 }
 
 nav a {
-  display: inline-block;
+  display: inline-flexbox;
   min-width: 9rem;
   padding: 0.5rem;
   border-radius: 0.2rem;
@@ -33,7 +33,7 @@ nav a {
 
 nav a[aria-current='page'] {
   color: #000;
-  background-color: #d4d4d4;
+  background-color: #157ca5;
 }
 
 main {
