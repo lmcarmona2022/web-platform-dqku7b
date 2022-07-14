@@ -63,6 +63,10 @@ h1 {
 }
 
 img {
-  width:auto;
-  height:auto;
+  position: relative ;
+  display: block;
+  z-index: ;
+  left: 50%;
+  transform: translateX(-9%);
+  top: 0px;
 }
