@@ -21,8 +21,8 @@ nav {
 }
 
 nav a {
-  display: inline-flexbox;
-  min-width: 9rem;
+  display: flexbox ;
+  min-width: 9rem ;
   padding: 0.5rem;
   border-radius: 0.2rem;
   border: solid 1px #aaa;
