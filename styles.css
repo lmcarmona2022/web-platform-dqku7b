@@ -33,7 +33,7 @@ nav a {
 
 nav a[aria-current='page'] {
   color: #000;
-  background-color: rgba(220, 243, 189, 0.575);
+  background-color:  rgb(124, 198, 248);
 }
 
 main {
@@ -55,7 +55,7 @@ h1 {
 }
 
 .hijo {
-  background-color: aquamarine;
+  background-color: rgb(124, 198, 248);
   padding: 0px;
   margin: 5px;
   width: 33%;
